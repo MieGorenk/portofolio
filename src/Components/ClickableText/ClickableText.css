@@ -1,0 +1,12 @@
+.link {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 20px;
+    color: #22BAD9;
+}
+
+.link:hover{
+    color:white;
+    background-color: #22BAD9;
+}

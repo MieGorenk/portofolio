@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.parent-container {
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    height:100vh;
+    margin-top: 150px;
+}
+
+.paragraph {
+    margin: auto;
+    display: block;
+    width: 50%;
+    padding-top: 150px;;
+}
+.choice {
+    margin:auto;
+    display:block;
+    width:50%;
+    text-align: center;
+    padding-top: 20px;
+}
