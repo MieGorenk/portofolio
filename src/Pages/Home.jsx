@@ -50,7 +50,7 @@ function Home() {
                         <Text>A proof-of-concept on-demand streaming website. Built with Golang as its backend and ReactJS as its frontend. User can watch videos that is stored on S3, while admin can add film using an API.</Text>
                         <br />
                         <ClickableText link="https://ezza-ardiala.itch.io/castle-panic">Castle Panic - Simple 2D Platformer</ClickableText>
-                        <Text>A simple platforming game made using Godot Engine. Player must control the creature so he can escape the castle with precision control with keyboard and mouse.</Text>
+                        <Text>A simple platforming game made using Godot Engine. Player must control the creature so he can escape the castle using keyboard and mouse.</Text>
                         <br />
                         <Text>Is there anything else that you wanna know?</Text>
                     </div>
@@ -136,7 +136,9 @@ function Home() {
                         <Text>+62 857 1818 7896</Text>
                         <Text>ezzaardiala@gmail.com</Text>
                         <ClickableText link="https://github.com/MieGorenk">Github</ClickableText>
+                        <br/>
                         <ClickableText link="https://gitlab.com/ezza11">Gitlab</ClickableText>
+                        <br/>
                         <ClickableText link="https://www.linkedin.com/in/ezza-ardiala-0b8004155/">LinkedIn</ClickableText>
                         <br />
                         <Text>Is there anything else you wanna know?</Text>
